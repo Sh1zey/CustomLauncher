@@ -42,6 +42,7 @@ Additionally, users can add new games to the list along with their executable pa
 ## Installation
 
 No installation is required. Simply run the program executable to launch the application.
+Recommended: Run it with the script.
 
 ## Usage
 
