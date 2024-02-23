@@ -4,7 +4,6 @@ I created the Sh1zeyLauncher application to be used in conjunction with this scr
 
 ## Example Script
 
-```batch
 @echo off
 cd "C:\Program Files\obs-studio\bin\64bit"
 start obs64.exe
@@ -14,7 +13,6 @@ cd "C:\Users\Sh1zey\Sh1zeyLauncher"
 start Sh1zeyLauncher.exe
 start "" https://dashboard.twitch.tv/u/thewolfa/stream-manager
 exit
-```batch
 
 
 # CustomLauncher
