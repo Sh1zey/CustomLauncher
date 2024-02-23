@@ -1,5 +1,5 @@
 # CustomLauncher
-# Game Selector
+Game Selector
 
 ## Overview
 
