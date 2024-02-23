@@ -1,3 +1,21 @@
+# Sh1zeyLauncher Script
+
+I created the Sh1zeyLauncher application to be used in conjunction with this script, providing a streamlined way to start your stream with a single click.
+
+## Example Script
+
+```batch
+@echo off
+cd "C:\Program Files\obs-studio\bin\64bit"
+start obs64.exe
+cd "C:\Users\Sh1zey\Streamer.bot-x64-0.2.2" 
+start Streamer.bot.exe
+cd "C:\Users\Sh1zey\Sh1zeyLauncher" 
+start Sh1zeyLauncher.exe
+start "" https://dashboard.twitch.tv/u/thewolfa/stream-manager
+exit
+
+
 # CustomLauncher
 Game Selector
 
