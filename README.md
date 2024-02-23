@@ -14,6 +14,7 @@ cd "C:\Users\Sh1zey\Sh1zeyLauncher"
 start Sh1zeyLauncher.exe
 start "" https://dashboard.twitch.tv/u/thewolfa/stream-manager
 exit
+```batch
 
 
 # CustomLauncher
