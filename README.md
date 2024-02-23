@@ -5,13 +5,21 @@ I created the Sh1zeyLauncher application to be used in conjunction with this scr
 ## Example Script
 
 @echo off
-cd "C:\Program Files\obs-studio\bin\64bit"
+
+cd "C:\Program Files\obs-studio\bin\64bit" 
+
 start obs64.exe
+
 cd "C:\Users\Sh1zey\Streamer.bot-x64-0.2.2" 
+
 start Streamer.bot.exe
+
 cd "C:\Users\Sh1zey\Sh1zeyLauncher" 
+
 start Sh1zeyLauncher.exe
+
 start "" https://dashboard.twitch.tv/u/thewolfa/stream-manager
+
 exit
 
 
@@ -20,7 +28,9 @@ Game Selector
 
 ## Overview
 
-This program allows users to select and launch games for streaming purposes. It provides a simple graphical interface where users can choose from a list of available games and launch them with a click of a button. Additionally, users can add new games to the list along with their executable paths or shortcuts.
+This program allows users to select and launch games for streaming purposes.
+It provides a simple graphical interface where users can choose from a list of available games and launch them with a click of a button.
+Additionally, users can add new games to the list along with their executable paths or shortcuts.
 
 ## Features
 
